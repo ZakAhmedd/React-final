@@ -1,4 +1,5 @@
-# Third React Project (hangman game)
+# Final React (practice) Project
+Hangman Game
 
 ## Installation
 
@@ -13,3 +14,5 @@
 ## Start the server
 
 npm start
+
+## Uses clsx for help with class names
